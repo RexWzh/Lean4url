@@ -22,18 +22,19 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -e ".[dev]"
-        pip install sphinx sphinx-rtd-theme
+        pip install mkdocs mkdocs-material mkdocs-i18n-plugin
     
     - name: Build documentation
       run: |
-        # Create basic docs structure if needed
-        mkdir -p docs
-        echo "# lean4url Documentation" > docs/index.md
-        echo "\nSee README.md for usage instructions." >> docs/index.md
+        # Ensure docs directory exists
+        mkdir -p docs/getting-started
+        
+        # Build MkDocs site
+        mkdocs build
     
     - name: Deploy to GitHub Pages
       if: github.ref == 'refs/heads/main'
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./docs
+        publish_dir: ./site
