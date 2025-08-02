@@ -189,3 +189,4 @@ user_input_files/
 downloads/
 shell_output_save/
 .venv/
+*.egg-info/

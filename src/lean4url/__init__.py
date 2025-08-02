@@ -9,9 +9,9 @@ Author: Rex Wang
 License: MIT
 """
 
-__version__ = "1.0.0"
+__version__ = "0.1.0"
 __author__ = "Rex Wang"
-__email__ = "lean4url@example.com"
+__email__ = "1073853456@qq.com"
 __license__ = "MIT"
 
 from .core import LZString
