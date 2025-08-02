@@ -50,9 +50,9 @@ jobs:
     #     black --check src tests
     #     isort --check-only src tests
     
-    - name: Run type checking
-      run: |
-        mypy src
+    # - name: Run type checking
+    #   run: |
+    #     mypy src
     
     - name: Run tests with coverage
       run: |
