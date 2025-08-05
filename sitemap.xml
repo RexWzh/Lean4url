@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
         <loc>https://lean4url.readthedocs.io/</loc>
-        <lastmod>2025-08-03</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://lean4url.readthedocs.io/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://lean4url.readthedocs.io/zh/"/>
     </url>
     <url>
         <loc>https://lean4url.readthedocs.io/getting-started/quickstart/</loc>
-        <lastmod>2025-08-03</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://lean4url.readthedocs.io/getting-started/quickstart/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://lean4url.readthedocs.io/zh/getting-started/quickstart/"/>
     </url>
     <url>
         <loc>https://lean4url.readthedocs.io/zh/</loc>
-        <lastmod>2025-08-03</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://lean4url.readthedocs.io/zh/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://lean4url.readthedocs.io/"/>
     </url>
     <url>
         <loc>https://lean4url.readthedocs.io/zh/getting-started/quickstart/</loc>
-        <lastmod>2025-08-03</lastmod>
+        <lastmod>2025-08-05</lastmod>
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://lean4url.readthedocs.io/zh/getting-started/quickstart/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://lean4url.readthedocs.io/getting-started/quickstart/"/>
