@@ -3,7 +3,9 @@
 [![PyPI version](https://badge.fury.io/py/lean4url.svg)](https://badge.fury.io/py/lean4url)
 [![Python Version](https://img.shields.io/pypi/pyversions/lean4url.svg)](https://pypi.org/project/lean4url/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Tests](https://github.com/rexwzh/lean4url/workflows/Tests/badge.svg)](https://github.com/rexwzh/lean4url/actions)
+[![CI](https://github.com/rexwzh/lean4url/workflows/CI/badge.svg)](https://github.com/rexwzh/lean4url/actions)
+[![Coverage](https://codecov.io/gh/rexwzh/lean4url/branch/main/graph/badge.svg)](https://codecov.io/gh/rexwzh/lean4url)
+[![Tests](https://github.com/rexwzh/lean4url/workflows/CI/badge.svg)](https://github.com/rexwzh/lean4url/actions)
 [![Coverage](https://codecov.io/gh/rexwzh/lean4url/branch/main/graph/badge.svg)](https://codecov.io/gh/rexwzh/lean4url)
 
 A high-performance lzstring compression library fully compatible with JavaScript implementation.
@@ -15,8 +17,6 @@ A high-performance lzstring compression library fully compatible with JavaScript
 ✅ **Unicode Support** - Correctly handles all Unicode characters, including emoji and special symbols
 
 ✅ **URL Friendly** - Built-in URL encoding/decoding functionality
-
-✅ **High Performance** - Optimized algorithm implementation
 
 ✅ **Type Safe** - Complete type annotation support
 

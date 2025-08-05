@@ -3,7 +3,7 @@
 [![PyPI version](https://badge.fury.io/py/lean4url.svg)](https://badge.fury.io/py/lean4url)
 [![Python Version](https://img.shields.io/pypi/pyversions/lean4url.svg)](https://pypi.org/project/lean4url/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Tests](https://github.com/rexwzh/lean4url/workflows/Tests/badge.svg)](https://github.com/rexwzh/lean4url/actions)
+[![Tests](https://github.com/rexwzh/lean4url/workflows/CI/badge.svg)](https://github.com/rexwzh/lean4url/actions)
 [![Coverage](https://codecov.io/gh/rexwzh/lean4url/branch/main/graph/badge.svg)](https://codecov.io/gh/rexwzh/lean4url)
 
 一个高性能的 lzstring 压缩库，与 JavaScript 实现完全兼容。
@@ -15,8 +15,6 @@
 ✅ **Unicode 支持** - 正确处理所有 Unicode 字符，包括 emoji 和特殊符号
 
 ✅ **URL 友好** - 内置 URL 编码/解码功能
-
-✅ **高性能** - 优化的算法实现
 
 ✅ **类型安全** - 完整的类型注解支持
 

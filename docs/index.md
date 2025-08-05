@@ -10,8 +10,6 @@ A high-performance lzstring compression library compatible with JavaScript imple
 
 ✅ **URL Friendly** - Built-in URL encoding/decoding functionality
 
-✅ **High Performance** - Optimized algorithm implementation
-
 ✅ **Type Safe** - Complete type annotations support
 
 ✅ **Thoroughly Tested** - Includes comparison tests with JavaScript version
